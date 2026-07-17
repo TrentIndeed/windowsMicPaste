@@ -1,6 +1,6 @@
 """
 Whisper Push-to-Talk - Windows 11 System Tray App
-- Left-click tray icon OR press hotkey (Ctrl+Alt+Space) to toggle recording
+- Left-click tray icon OR press hotkey (Ctrl+Shift+D) to toggle recording
 - While recording, icon turns red + Windows notification pops up
 - On stop, faster-whisper transcribes and dumps to clipboard
 - Paste anywhere with Ctrl+V
